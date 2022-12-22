@@ -8,5 +8,8 @@ This form makes it easy to get data and collect it in a convenient way. Currentl
 <img src="https://user-images.githubusercontent.com/94777746/209142114-c7c6a79d-55b9-448c-8532-738b55b40820.png" alt="drawing" width="500"/>
 
 This page is available on [GitHub Pages](https://seltaria.github.io/multi-step-form). <br/>
+
 Developed via React library, fully responsive.<br/>
+All development files are in "dev files" folder. <br/>
+
 Here's the [link](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ) on this Frontend Mentor challenge.
